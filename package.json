@@ -19,7 +19,7 @@
   "homepage": "https://github.com/fantasyui-com/container-generator#readme",
   "dependencies": {
     "bootstrap-faker": "^1.3.0",
-    "handlebars": "^4.5.1",
+    "handlebars": "^4.5.3",
     "oneof": "^1.1.0"
   },
   "devDependencies": {}
